@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+Im a Front-End developer and currently studying CE at BNUT.
+## Programming Languages :computer:
+- C++
+- Verilog
+- Java
+- Python 
+- HTML
+- CSS
+- Sass
+- JavaScript
+- TypeScript
 
-<!--
-**younes-nb/younes-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frameworks and Libraries :books:
+- Bootsrap
+- Django
+- Angular
 
-Here are some ideas to get you started:
+## Tools :hammer_and_pick:
+- Github
+- Webstorm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me :mailbox:
+- Telegram : @younes_nb
+- Instagram : younes_nb
+- Twitter : @younes_nb
+- Discord : younes_nb#7618
