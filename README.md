@@ -1,9 +1,6 @@
 # Hi there 👋
 Im a Front-End developer and currently studying CE at BNUT.
 ## Programming Languages :computer:
-- C++
-- Verilog
-- Java
 - Python 
 - HTML
 - CSS
@@ -18,7 +15,7 @@ Im a Front-End developer and currently studying CE at BNUT.
 
 ## Tools :hammer_and_pick:
 - Github
-- Webstorm
+- VSCode
 
 ## Contact me :mailbox:
 - Telegram : @younes_nb
